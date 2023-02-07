@@ -1,0 +1,17 @@
+body{
+    background-color:  black;
+}
+div{
+    border-radius: 10px;
+    color: antiquewhite;
+    display: block;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-style: solid;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
